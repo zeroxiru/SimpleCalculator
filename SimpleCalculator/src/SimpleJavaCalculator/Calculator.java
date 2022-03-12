@@ -39,7 +39,7 @@ public class Calculator {
         }
        if (mode == BiOperatorModes.minus) {
     	   
-    	   if ()
+    	
 //            return num1 - num2;
        }
         if (mode == BiOperatorModes.multiply) {
